@@ -1,0 +1,26 @@
+{
+  "name": "fc_dnd_5e_character_builder",
+  "version": "1.0.0",
+  "description": "Character build for D&D 5E",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Spodeian/FC_DnD_5E_Character_Builder.git"
+  },
+  "keywords": [
+    "DnD",
+    "Character",
+    "Builder",
+    "Electron",
+    "Tabletop"
+  ],
+  "author": "Spodeian",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Spodeian/FC_DnD_5E_Character_Builder/issues"
+  },
+  "homepage": "https://github.com/Spodeian/FC_DnD_5E_Character_Builder#readme"
+}
