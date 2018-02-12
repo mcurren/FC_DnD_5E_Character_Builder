@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/Spodeian/FC_DnD_5E_Character_Builder/issues"
   },
-  "homepage": "https://github.com/Spodeian/FC_DnD_5E_Character_Builder#readme"
+  "homepage": "https://github.com/Spodeian/FC_DnD_5E_Character_Builder#readme",
+  "dependencies": {
+    "electron": "^1.8.2"
+  }
 }
